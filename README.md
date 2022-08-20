@@ -1,4 +1,4 @@
-# Basic Flask Web Application
+# Basic Flask Web Application (Practice)
 
 ## Project Details
 Create a flask web application that allows users to create and store notes when logged in successfully.
