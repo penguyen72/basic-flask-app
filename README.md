@@ -13,7 +13,7 @@ Create a flask web application that allows users to create and store notes when 
 * Set up environment
 * Activate environment
 * Download all dependencies
-* Run python main.py
+* Run `python main.py`
 
 ## Future Goals
 * Learn to deploy Flask web app on Heroku
