@@ -9,6 +9,16 @@ Create a flask web application that allows users to create and store notes when 
 * Integrate Python into HTML by using Jinja
 * Utilize Bootstrap to construct web application CSS
 
+## How to run
+* Set up environment
+* Activate environment
+* Download all dependencies
+* Run python main.py
+
+## Future Goals
+* Learn to deploy Flask web app on Heroku
+* Tutorial on Deployment: https://www.youtube.com/watch?v=D2GLVoiEZyE&ab_channel=ArpanNeupane
+
 ## How to set up environment
 * Inside `/basic-flask-app`, create a virtual environment with the following command: `python3 -m venv venv`.
 * Activate the virtual environment with `source venv/bin/activate`.
