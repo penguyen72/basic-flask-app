@@ -1,5 +1,14 @@
 # Basic Flask Web Application
 
+## Project Details
+Create a flask web application that allows users to create and store notes when logged in successfully.
+
+## Project Goals
+* Learn how to create a website using Flask and Python
+* Understand how to store user login data using SQLAlchemy
+* Integrate Python into HTML by using Jinja
+* Utilize Bootstrap to construct web application CSS
+
 ## How to set up environment
 * Inside `/basic-flask-app`, create a virtual environment with the following command: `python3 -m venv venv`.
 * Activate the virtual environment with `source venv/bin/activate`.
